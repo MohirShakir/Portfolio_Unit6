@@ -1,6 +1,6 @@
     header {
       text-align: center;
-      background: url("images/banner.jpg");
+      background: url("images/img1.jpg");
       background-size: cover;
       color: white;
     }
@@ -9,6 +9,7 @@
     }
     h1 {
       font-size: 70px;
+      color:Red;
     }
     img {
       margin: 40px 0px 0px 0px;
@@ -37,4 +38,13 @@
         padding: 5px;
         display: block;
       }
+    }
+    
+    #profile{
+      height: 200px;
+    width: 50%;
+    }
+    
+    a{
+      color: red;
     }
